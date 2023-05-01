@@ -1,0 +1,17 @@
+Explain why we need domain modeling. We need domain modeling because it is the process of creating a conceptual model in code for a specific problem. A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain.
+
+HTML Table Basics
+
+Why should tables not be used for page layouts? One example of why we shouldn't use tables for layouts is because layout tables reduce accessibility for visually impaired users.
+List and describe 3 different semantic HTML elements used in an HTML <table>. <nav> -defines navigation links, <section>- defines a section in a document, <mark>- defines highlighted text.
+
+Introducing Constructors
+
+What is a constructor and what are some advantages to using it? Constructors are used to initialize the objects of the class with initial values. Constructors are invoked automatically when the objects are created.
+How does the term this differ when used in an object literal versus when used in a constructor? Objects created using object literals are singleton, while this is when a change is made to the object and affects that object across the entire script.
+
+Object Prototypes Using A Constructor
+
+Explain prototypes and inheritance via an analogy from your previous work experience.
+NOTE: This is a very common front end developer interview question 
+Starting a new job with no experience and learning from a more experienced worker to gain knowledge would be an example of a prototype inheritance.
