@@ -1,0 +1,10 @@
+Flexbox is designed for one-dimensional content. Explain what this means. It excels at taking a bunch of items which have different sizes, and returning the best layout for those items.
+Explain the difference between the main axis and cross axis. The main axis is along the row. The cross axis runs in the other direction from the main axis.
+How can using certain properties of flexbox negatively impact accessibility? It can make your site hard to read.
+
+CSS Layout - Flexbox
+
+Read up to “Flex-Flow Shorthand”
+
+What are some advantages of using flexbox over float? Flexbox allows you to create layouts by aligning items to a single axis.
+How does this topic connect with your long-term goals? I feel like Flexbox would be extremely beneficial as a developer in the long run to help me code effectively. 
